@@ -1,0 +1,12 @@
+{
+  "mobileToolbarCommands": [
+    "editor:toggle-bullet-list",
+    "editor:toggle-checklist-status",
+    "editor:toggle-numbered-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-tag"
+  ]
+}

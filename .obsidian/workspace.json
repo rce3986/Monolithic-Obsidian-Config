@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "64ff2b7fbb687a71",
+    "type": "split",
+    "children": [
+      {
+        "id": "f89a91fb370e643b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21bff64c8ed5d088",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gaming PC/Builds/Paul's Build.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Paul's Build"
+            }
+          },
+          {
+            "id": "e158dda190cc803c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Add Task.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Add Task"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12215485919f18d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "b82cf95c3acc8a77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffc1fc1bbbfcd84c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d77c41a54dbff18a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "73e4728c9f948683",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6c3f601b9747602",
+    "type": "split",
+    "children": [
+      {
+        "id": "72950a3df72d72e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c95f6d3f9e9429bf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tasks.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tasks"
+            }
+          },
+          {
+            "id": "98acdc1da4191961",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tasks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tasks"
+            }
+          },
+          {
+            "id": "f07529e0cb1bf661",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "37863e358adca5cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tasks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tasks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "e158dda190cc803c",
+  "lastOpenFiles": [
+    "Tasks.md",
+    "Templates/Add Task.md",
+    "Daily/Sat, Mar 29 -- Q1 2025.md",
+    "Daily/Wed, Mar 19 -- Q1 2025.md",
+    "Gaming PC/Parts/CPU.md",
+    "Gaming PC/Parts/Case.md",
+    "Gaming PC/Parts/GPU.md",
+    "Gaming PC/Parts/RAM.md",
+    "Gaming PC/Parts/PSU.md",
+    "Gaming PC/Parts/Monitor.md",
+    "Gaming PC/Parts/CPU Cooler.md",
+    "Gaming PC/Builds/Paul's Build.md",
+    "Gaming PC/Check List.md",
+    "Gaming PC/Builds",
+    "Gaming PC/Parts",
+    "Daily/Fri, Mar 28 -- Q1 2025.md",
+    "CPU.md",
+    "Gaming PC",
+    "Gaming PC.md",
+    "Daily/Tue, Mar 25 -- Q1 2025.md",
+    "Daily/Thu, Mar 27 -- Q1 2025.md",
+    "Daily/Wed, Mar 26 -- Q1 2025.md",
+    "Daily/Mon, Mar 24 -- Q1 2025.md",
+    "Daily/Sun, Mar 23 -- Q1 2025.md",
+    "Daily/Sat, Mar 22 -- Q1 2025.md",
+    "Daily/Fri, Mar 21 -- Q1 2025.md",
+    "Daily/Fri, Mar 14 -- Q1 2025.md",
+    "Daily/Thu, Mar 20 -- Q1 2025.md",
+    "Daily/Tue, Mar 18 -- Q1 2025.md",
+    "Templates",
+    "Daily"
+  ]
+}
