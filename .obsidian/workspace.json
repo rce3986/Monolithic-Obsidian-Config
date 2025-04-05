@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Add Task.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Add Task"
+              "title": "Tasks"
             }
           }
         ],
@@ -186,18 +186,25 @@
   },
   "active": "e158dda190cc803c",
   "lastOpenFiles": [
+    "Daily/Wed, Mar 12 -- Q1 2025.md",
     "Tasks.md",
     "Templates/Add Task.md",
+    "Daily/Sat, Apr 05 -- Q2 2025.md",
+    "Daily/Thu, Apr 03 -- Q2 2025.md",
+    "Daily/Wed, Apr 02 -- Q2 2025.md",
+    "Gaming PC/Parts/Monitor.md",
+    "Gaming PC/GPU.md",
+    "Daily/Sun, Mar 30 -- Q1 2025.md",
+    "Gaming PC/Parts/CPU.md",
+    "Gaming PC/Parts/GPU.md",
+    "Gaming PC/Builds/Paul's Build.md",
+    "Templates",
     "Daily/Sat, Mar 29 -- Q1 2025.md",
     "Daily/Wed, Mar 19 -- Q1 2025.md",
-    "Gaming PC/Parts/CPU.md",
     "Gaming PC/Parts/Case.md",
-    "Gaming PC/Parts/GPU.md",
     "Gaming PC/Parts/RAM.md",
     "Gaming PC/Parts/PSU.md",
-    "Gaming PC/Parts/Monitor.md",
     "Gaming PC/Parts/CPU Cooler.md",
-    "Gaming PC/Builds/Paul's Build.md",
     "Gaming PC/Check List.md",
     "Gaming PC/Builds",
     "Gaming PC/Parts",
@@ -209,13 +216,6 @@
     "Daily/Thu, Mar 27 -- Q1 2025.md",
     "Daily/Wed, Mar 26 -- Q1 2025.md",
     "Daily/Mon, Mar 24 -- Q1 2025.md",
-    "Daily/Sun, Mar 23 -- Q1 2025.md",
-    "Daily/Sat, Mar 22 -- Q1 2025.md",
-    "Daily/Fri, Mar 21 -- Q1 2025.md",
-    "Daily/Fri, Mar 14 -- Q1 2025.md",
-    "Daily/Thu, Mar 20 -- Q1 2025.md",
-    "Daily/Tue, Mar 18 -- Q1 2025.md",
-    "Templates",
     "Daily"
   ]
 }
