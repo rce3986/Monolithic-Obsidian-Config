@@ -1,0 +1,1 @@
+[[Timesheet]] <% tp.date.now("HH:mm", 1) %> #

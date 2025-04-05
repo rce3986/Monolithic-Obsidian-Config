@@ -23,5 +23,14 @@
       ],
       "key": "J"
     }
+  ],
+  "templater-obsidian:Templates/Enter Time.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ";"
+    }
   ]
 }

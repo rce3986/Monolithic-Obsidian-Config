@@ -29,7 +29,8 @@
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
-    "Templates/Add Task.md"
+    "Templates/Add Task.md",
+    "Templates/Enter Time.md"
   ],
   "startup_templates": [
     ""

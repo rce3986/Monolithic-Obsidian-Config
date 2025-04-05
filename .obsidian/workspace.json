@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "Timesheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Timesheet"
             }
           }
         ],
@@ -186,10 +186,12 @@
   },
   "active": "e158dda190cc803c",
   "lastOpenFiles": [
-    "Daily/Wed, Mar 12 -- Q1 2025.md",
-    "Tasks.md",
-    "Templates/Add Task.md",
     "Daily/Sat, Apr 05 -- Q2 2025.md",
+    "Timesheet.md",
+    "Templates/Enter Time.md",
+    "Templates/Add Task.md",
+    "Tasks.md",
+    "Daily/Wed, Mar 12 -- Q1 2025.md",
     "Daily/Thu, Apr 03 -- Q2 2025.md",
     "Daily/Wed, Apr 02 -- Q2 2025.md",
     "Gaming PC/Parts/Monitor.md",
@@ -214,8 +216,6 @@
     "Gaming PC.md",
     "Daily/Tue, Mar 25 -- Q1 2025.md",
     "Daily/Thu, Mar 27 -- Q1 2025.md",
-    "Daily/Wed, Mar 26 -- Q1 2025.md",
-    "Daily/Mon, Mar 24 -- Q1 2025.md",
     "Daily"
   ]
 }
