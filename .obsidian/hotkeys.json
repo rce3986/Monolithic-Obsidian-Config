@@ -32,5 +32,14 @@
       ],
       "key": ";"
     }
+  ],
+  "markdown:add-metadata-property": [],
+  "templater-obsidian:Templates/Add Done Date.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ";"
+    }
   ]
 }

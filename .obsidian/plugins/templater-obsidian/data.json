@@ -30,7 +30,8 @@
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "Templates/Add Task.md",
-    "Templates/Enter Time.md"
+    "Templates/Enter Time.md",
+    "Templates/Add Done Date.md"
   ],
   "startup_templates": [
     ""
